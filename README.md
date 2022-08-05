@@ -1,6 +1,6 @@
 # URL-manager
 
-![](https://github.com/ankitgoyal0301/URLManager/blob/master/Logo.png)
+![](https://github.com/Umesh090123/URL-manager/blob/master/Logo.png)
 
 ***Do you have to google each time you want to open the most common day to day websites?***
 
