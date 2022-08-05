@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "URL Manager",
+    "version": "1.0",
+    "description": "This extension helps to quickly access the most useful and important websites in a single click.",
+    "icons": {
+      "128": "iconic128.png",
+      "48": "iconic48.png",
+      "16": "iconic16.png"
+    },
+    "browser_action": {
+      "default_icon": "iconic16.png",
+      "default_popup": "index.html"
+    }
+}
